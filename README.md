@@ -1,4 +1,4 @@
-#Clone Instagram
+# Clone Instagram
 
 Projeto de reprodução da página inicial do Instagram, utilizando o somente HTML e CSS. 
 
